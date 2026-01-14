@@ -18,7 +18,7 @@ AI-tools: Cursor, ChatGPT
 ___
 
 ## A bit about me
-- I believe in Christ
+- I'm Christian
 - I have two guinea pigs
 - I like to cook
 - I like to read books
